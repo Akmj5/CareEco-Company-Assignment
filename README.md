@@ -22,17 +22,17 @@ A mini project to simulate a consolidated live order book by merging multiple ex
 git clone <repo_link>  # or download ZIP
 cd one-big-exchange
 ```
-## Install Requirements
+## 2. Install Requirements
 ```bash
 pip install -r requirements.txt
 
 ```
-## Run Streamlit App
+## 3. Run Streamlit App
 ```bash
 streamlit run app.py
 
 ```
-## How to Run Tests
+## 4. How to Run Tests
 ```bash
 python test_order_book.py
 
